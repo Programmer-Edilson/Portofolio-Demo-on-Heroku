@@ -1,0 +1,5 @@
+#to heroku
+git push heroku main
+
+#to github
+git push origin main
