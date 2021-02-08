@@ -1,0 +1,19 @@
+body{
+    background-color:#83d8eb;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
+h3{
+    text-align: center;
+    color: fuchsia;
+}
+p{
+    text-align: center;
+    margin-bottom: 0%;
+}
